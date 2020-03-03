@@ -15,7 +15,7 @@
 def speak_to_grandma(speak)
   if speak ==  "I LOVE YOU GRANDMA"
     put "I LOVE YOU TOO PUMPKIN!"
-  elsif speak == 
+  elsif speak == "shout"
     
 
 end
